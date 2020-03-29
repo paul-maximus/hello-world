@@ -1,2 +1,3 @@
 # hello-world
 a collection of ideas
+What is an idea? There are many definintions but only one can capture the imagination of the masses. Be that idea....
